@@ -11,9 +11,7 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            Discover a world of stories, knowledge, and imagination. Explore bestsellers, timeless classics, and hidden gems. Find the perfect book to inspire, educate, or entertain—because every great adventure begins with a page!
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
@@ -28,7 +26,7 @@ function Banner() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="btn mt-6 btn-secondary">Secondary</button>
+          <button className="btn mt-6 btn-secondary">Get Started</button>
         </div>
         <div className=" order-1 w-full mt-20 md:w-1/2">
           <img
